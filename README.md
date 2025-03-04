@@ -12,15 +12,14 @@ The project follows a structured pipeline:
 
 1. **Data Preprocessing**  
    - Handling missing values, outliers, and inconsistencies  
-   - Feature engineering (e.g., extracting temporal features, encoding categorical variables)  
+   - Feature engineering (e.g. extracting temporal features, encoding categorical variables)  
 
 2. **Exploratory Data Analysis (EDA)**  
    - Visualizing sales trends, seasonality, and promotional impacts  
    - Identifying correlations between variables  
 
-3. **Model Selection & Training**  
-   - Implementing traditional time-series models (ARIMA, Prophet)  
-   - Using advanced machine learning approaches (XGBoost, LightGBM, LSTMs)  
+3. **Model Selection & Training**    
+   - Using advanced machine learning approaches (XGBoost)  
    - Hyperparameter tuning and model evaluation  
 
 4. **Forecasting & Submission**  
