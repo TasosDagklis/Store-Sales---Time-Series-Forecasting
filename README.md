@@ -1,5 +1,4 @@
 # Store-Sales-Time-Series-Forecasting
-Store Sales - Time Series Forecasting
 This repository contains a solution for the Kaggle competition **"Store Sales - Time Series Forecasting"**, where the goal is to predict unit sales for thousands of items across multiple stores of Corporación Favorita, a major grocery retailer in Ecuador.
 
 ## 📌 Project Overview
